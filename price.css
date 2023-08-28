@@ -3,7 +3,7 @@ html{
     box-sizing: border-box;
 }
 body{
-    background-image: url("C:\\Users\\SAHIL\\Downloads\\web\\icon\\netflix.png");
+    background-image: url("icon\netflix.png");
     background-size: contain; 
     background-position: center center; 
     width: 100%;
