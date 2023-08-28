@@ -2,8 +2,8 @@ html{
     font-family: sans-serif;
     box-sizing: border-box;
 }
-body{
-    background-image: url('icon/netflix.png');
+body {
+    background-image: url("icon/netflix.png");
     background-size: contain; 
     background-position: center center; 
     width: 100%;
